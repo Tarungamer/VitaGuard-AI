@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the symptoms of flu?",
+        "answer": "Common flu symptoms include fever, cough, sore throat, muscle aches, and fatigue."
+    },
+    {
+        "question": "How to treat a fever at home?",
+        "answer": "Drink plenty of fluids, rest, and take paracetamol or ibuprofen if needed."
+    },
+    {
+        "question": "What is the normal blood pressure range?",
+        "answer": "A normal blood pressure reading is typically around 120/80 mmHg."
+    },
+    {
+        "question": "What are the signs of dehydration?",
+        "answer": "Signs include dry mouth, dizziness, dark urine, and feeling thirsty."
+    },
+    {
+        "question": "Can a cold cause a high fever?",
+        "answer": "Colds usually cause mild fever, while flu causes high fever."
+    }
+]
